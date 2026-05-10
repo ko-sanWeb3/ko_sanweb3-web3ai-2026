@@ -20,7 +20,7 @@ lectures/
 ### 第3回(初回・Use this template)
 
 1. このリポジトリの **緑の "Use this template" ボタン** で自分のリポジトリを作成
-   - リポ名: `[DiscordID]-web3ai-2026` / Public
+   - リポ名: `[ko_sanweb3]-web3ai-2026` / Public
 2. 自分のリポジトリの [`lectures/lecture3/README.md`](./lectures/lecture3/) を開く
 3. そこに常設の **Antigravity 用固定プロンプト** をコピペ → 内容を埋めて Antigravity で実行
 4. 自動で `lectures/lecture3/` の3ファイル更新 + commit + push
